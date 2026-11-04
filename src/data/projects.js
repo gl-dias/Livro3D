@@ -1,6 +1,6 @@
 // Os 7 projetos, na mesma ordem e com os mesmos dados da seção Projetos do site
 // (Portif/index.html, blocos #p-*, e o placar logo acima deles). Mudou lá, muda
-// aqui. Bot e Dias não mostram stack na home: a deles vem do Lab3D/src/data/graph.js.
+// aqui. Bot e Midas não mostram stack na home: a deles vem do Lab3D/src/data/graph.js.
 
 export const PROJECTS = [
   {
@@ -97,9 +97,9 @@ export const PROJECTS = [
     plate: 'hipoteses',
   },
   {
-    id: 'dias',
+    id: 'midas',
     num: '07',
-    name: 'Dias',
+    name: 'Midas',
     kind: 'pessoal',
     role: 'pessoal · planejado',
     status: 'planejado',

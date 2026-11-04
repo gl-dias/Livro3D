@@ -319,7 +319,7 @@ function paintPlate(ctx, p, y, h) {
     }
     return
   }
-  // Dias ainda não existe: moldura vazia, sem fingir que tem tela.
+  // Midas ainda não existe: moldura vazia, sem fingir que tem tela.
   ctx.save()
   ctx.strokeStyle = 'rgba(237,233,223,0.42)'
   ctx.lineWidth = 3
